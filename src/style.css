@@ -25,8 +25,8 @@ body {
   font-weight: 400;
   line-height: 200%;
   letter-spacing: 1px;
-  color: rgb(80, 48, 99);
-  background-color: rgb(204, 195, 206);
+  color: rgb(47, 39, 51);
+  background-color: rgba(61, 57, 61, 0.5);
   background-size: cover;
 }
 .container {
@@ -55,7 +55,7 @@ body {
   padding: 30px;
   margin-bottom: 30px;
   color: rgb(252, 247, 184);
-  background-color: rgb(80, 48, 99);
+  background-color: rgb(47, 39, 51);
   border-radius: 5px 0px 0px 5px;
   box-shadow: 10px 10px rgb(143, 125, 141);
 }
@@ -81,9 +81,9 @@ body {
   flex: 0 1 33.33%;
   padding: 20px;
   margin: 5px 10px 10px;
-  background-color: rgb(183, 167, 192);
+  background-color: rgba(188, 180, 192, 0.8);
   border-radius: 0px 5px 5px 0px;
-  box-shadow: 8px 5px rgb(143, 125, 141);
+  box-shadow: 8px 5px rgb(199, 183, 197);
 }
 
 .col-four {
@@ -145,7 +145,7 @@ body {
 .profile-photo {
   flex: 0 1 30%;
   padding: 30px;
-  background-color: rgb(80, 48, 99);
+  background-color: rgb(47, 39, 51);
 }
 .img-photo {
   width: 50%;
@@ -164,7 +164,7 @@ body {
   letter-spacing: 2px;
   text-transform: uppercase;
   text-decoration: underline;
-  color: rgb(164, 158, 175);
+  color: rgb(130, 89, 146);
 }
 .profile-content {
   display: flex;
